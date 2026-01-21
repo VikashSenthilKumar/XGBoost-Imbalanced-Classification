@@ -28,4 +28,4 @@ Handling imbalanced datasets is a critical challenge in machine learning. This p
 ## 🚀 How to Use
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/VikashSenthilKumar/xgboost-imbalance-project.git](https://github.com/VikashSenthilKumar/xgboost-imbalance-project.git)
+   git clone [https://github.com/VikashSenthilKumar/XGBoost-Imbalanced-Classification.git]
